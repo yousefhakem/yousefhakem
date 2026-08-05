@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4F46E5&height=250&section=header&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55&descAlign=50" width="100%"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-Wroclaw%20University%20of%20Science%20%26%20Technology-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF&labelColor=1E1033"/>
