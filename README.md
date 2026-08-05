@@ -225,7 +225,6 @@ Built backend logic for an ERP-style multi-service system, focusing on transacti
 | Recognition | Details |
 |:--|:--|
 | 🏆 Build for QSTP Hackathon | Led engineering (team *intellAIx*) on Deema ATS at Qatar Science & Technology Park, Jul–Aug 2026 |
-| 📊 Measured Systems Engineering | Verified 2,000-application export at 42.4s with flat memory — benchmarked, not estimated |
 | 🎓 B.Sc. Computer Science | Wroclaw University of Science and Technology, Software Engineering track, graduating Sep 2026 |
 
 </div>
