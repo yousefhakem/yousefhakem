@@ -15,12 +15,6 @@
 <a href="mailto:yousofkamel@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=E9D5FF&labelColor=1E1033"/></a>
 <a href="https://github.com/yousefhakem"><img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=E9D5FF&labelColor=1E1033"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yousefhakem&style=for-the-badge&color=6D28D9&labelColor=1E1033&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/yousefhakem?style=for-the-badge&color=7C3AED&labelColor=1E1033&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/yousefhakem?style=for-the-badge&color=4F46E5&labelColor=1E1033&label=STARS&logo=github"/>
-
 </div>
 
 <br/>
@@ -244,47 +238,6 @@ Built backend logic for an ERP-style multi-service system, focusing on transacti
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousefhakem&show_icons=true&theme=radical&hide_border=true&bg_color=1E1033&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefhakem&layout=compact&theme=radical&hide_border=true&bg_color=1E1033&title_color=A78BFA&text_color=E9D5FF"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yousefhakem&theme=radical&hide_border=true&background=1E1033&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF"/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yousefhakem&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
-<br/>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefhakem&theme=react-dark&bg_color=1E1033&color=A78BFA&line=7C3AED&point=E9D5FF&area=true&hide_border=true"/>
-
-</div>
-
-<br/>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -297,31 +250,6 @@ Built backend logic for an ERP-style multi-service system, focusing on transacti
 
 ---
 
-## Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Distributed systems design at scale
-    - Advanced retrieval-augmented generation architectures
-    - Production ML systems engineering
-  building:
-    - Event-driven, transactionally consistent backend systems
-    - Tool-calling AI agents with architecturally enforced boundaries
-  exploring:
-    - Vector search infrastructure (Qdrant, pgvector)
-    - Low-latency matching and execution systems
-  open_to:
-    - Backend Engineering roles
-    - AI/ML Engineering roles
-    - Full-Stack Engineering roles
-    - New Grad / Internship opportunities (EU work authorized)
-```
-
-<br/>
-
----
-
 ## Connect
 
 <div align="center">
@@ -329,17 +257,5 @@ current_focus:
 <a href="mailto:yousofkamel@outlook.com"><img src="https://img.shields.io/badge/Gmail-yousofkamel%40outlook.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=E9D5FF&labelColor=1E1033"/></a>
 <a href="https://linkedin.com/in/yousof-kamel"><img src="https://img.shields.io/badge/LinkedIn-yousof--kamel-7C3AED?style=for-the-badge&logo=linkedin&logoColor=E9D5FF&labelColor=1E1033"/></a>
 <a href="https://github.com/yousefhakem"><img src="https://img.shields.io/badge/GitHub-yousefhakem-4F46E5?style=for-the-badge&logo=github&logoColor=E9D5FF&labelColor=1E1033"/></a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"Build secure, data-intensive systems with production-grade rigor."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=150&section=footer"/>
 
 </div>
